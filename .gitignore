@@ -1,0 +1,14 @@
+# dependencies — never commit
+node_modules/
+
+# build output
+dist/
+
+# secrets — never commit
+.env
+
+# log files
+*.log
+
+# personal editor settings (optional)
+.vscode/
